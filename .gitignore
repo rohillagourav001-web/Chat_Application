@@ -1,0 +1,14 @@
+# Frontend
+front-chat/node_modules/
+front-chat/dist/
+
+# Backend
+chat-app-backend/target/
+chat-app-backend/*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
