@@ -12,3 +12,5 @@ chat-app-backend/*.log
 # OS files
 .DS_Store
 Thumbs.db
+
+chat-app-backend/src/main/resources/application.properties
