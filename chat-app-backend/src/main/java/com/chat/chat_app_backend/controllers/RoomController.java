@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/rooms")
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin("https://chat-application-1-14gu.onrender.com")
 public class RoomController  {
     private RoomRepository roomRepository;
     public RoomController(RoomRepository roomRepository){
